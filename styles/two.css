@@ -1,0 +1,18 @@
+.socialsection {
+    display: block;
+}
+
+.bloggerinfosection {
+    padding: 4%;
+    display: grid;
+}
+.blogpageheader{
+  background-color: white;
+}
+img {
+    width: 30%;
+}
+
+.chef {
+    width: 50%;
+}
